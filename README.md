@@ -19,12 +19,10 @@ Currently seeking **Data Analyst / Data Science Internship**.
 
 ## Technical Skills
 
-- **Languages:** Python, SQL, R
-- **ML:** XGBoost, LightGBM, PyTorch, scikit-learn
-- **NLP:** HuggingFace Transformers, FinBERT
-- **Visualization:** Plotly, Streamlit
-- **Tools:** Docker, GitHub Actions, MLflow
-- **Domain:** Econometrics, Financial Analysis, Backtesting
+- **Languages:** Python, SQL
+- **Domain:** Econometrics, Financial Analysis, 
+  Backtesting, Time Series
+- **Tools:** Git, GitHub, Streamlit (basic)
 
 ---
 
@@ -44,6 +42,11 @@ Early-warning system for financial market crises combining:
 - 🧪 16 pytest tests · Walk-forward CV · MLflow tracking
 
 **Stack:** Python · XGBoost · FinBERT · Streamlit · Docker · GitHub Actions
+
+**My role:** Problem definition, methodology design,
+critical evaluation, verification & deployment
+
+**AI-assisted:** Code scaffolding, debugging, documentation
 
 [View on GitHub](https://github.com/oomNoNe/black-swan-indicator) · 
 [Live Report](https://oomNoNe.github.io/black-swan-indicator/)
