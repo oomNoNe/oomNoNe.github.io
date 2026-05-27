@@ -62,5 +62,6 @@ Machine Learning, Time Series Analysis
 ## Contact
 
 - 📧 non0992727@gmail.com
+- 📧 nonchaphat_ithiroj@cmu.ac.th
 - 💻 [github.com/oomNoNe](https://github.com/oomNoNe)
 - 🌐 [Live Project](https://oomNoNe.github.io/black-swan-indicator/)
