@@ -1,8 +1,11 @@
 # Nonchaphat Ithirojanawong
+ ภาพ
+## Education
 
-**Data Analyst & Data Science** | Chiang Mai University | GPA 3.23
-
-📧 non0992727@gmail.com · [GitHub](https://github.com/oomNoNe)
+**Chiang Mai University** — Economics / Data Science  
+GPA: 3.23 / 4.00  
+Relevant courses: Econometrics, Statistics, Financial Markets,
+Machine Learning, Time Series Analysis
 
 ---
 
@@ -25,10 +28,14 @@ Currently seeking **Data Analyst / Data Science Internship**.
 - **Tools:** Git, GitHub, Streamlit (basic)
 
 ---
+## Work Experience
 
-## Featured Project
+---
+## Project
 
 ### 🚨 Black Swan Risk Indicator
+
+ภาพ
 
 Early-warning system for financial market crises combining:
 - 📰 **FinBERT NLP** — sentiment analysis from global headlines
@@ -51,15 +58,10 @@ critical evaluation, verification & deployment
 [View on GitHub](https://github.com/oomNoNe/black-swan-indicator) · 
 [Live Report](https://oomNoNe.github.io/black-swan-indicator/)
 
----
 
-## Education
+### project SQL
 
-**Chiang Mai University** — Economics / Data Science  
-GPA: 3.23 / 4.00  
-Relevant courses: Econometrics, Statistics, Financial Markets,
-Machine Learning, Time Series Analysis
-
+### project analysis basic 
 ---
 
 ## Contact
