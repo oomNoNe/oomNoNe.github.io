@@ -1,6 +1,6 @@
 <img src="profile.jpg" width="150"
 style="border-radius: 12px; 
-display: block; margin: 0 auto;"/>
+
 
 # Nonchaphat Ithirojanawong
 ## Education
