@@ -1,5 +1,5 @@
 
-
+## Education
 **Chiang Mai University** — Economics / Data Science  
 GPA: 3.23 / 4.00  
 Relevant courses: Econometrics, Statistics, Financial Markets,
