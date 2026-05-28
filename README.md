@@ -1,9 +1,30 @@
-<img src="profile.jpg" width="150"
-style="border-radius: 12px"/>
-
-
-# Nonchaphat Ithirojanawong
-## Education
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <img src="{{ '/profile.jpg' | relative_url }}" 
+          width="150" height="150"
+          style="border-radius:50%; object-fit:cover;"/>
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
+        <p>
+          <a href="https://github.com/oomNoNe" target="_blank">GitHub</a><br>
+          <a href="mailto:non0992727@gmail.com">non0992727@gmail.com</a>
+        </p>
+      </header>
+      <section>
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
 
 **Chiang Mai University** — Economics / Data Science  
 GPA: 3.23 / 4.00  
