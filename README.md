@@ -1,5 +1,5 @@
 <img src="profile.jpg" width="150"
-style="border-radius: 12px; 
+style="border-radius: 12px"/>
 
 
 # Nonchaphat Ithirojanawong
