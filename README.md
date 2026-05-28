@@ -30,43 +30,29 @@ Currently seeking **Data Analyst / Data Science Internship**.
 
 ### Nature Conservation and Environment Club — Chiang Mai University
 
-**Bird Watching and Exploring Nature Camp 2024** · *Medical Officer* · Nov – Dec 2024
-- Sourced and borrowed first-aid equipment from internal CMU faculties and external organizations (Maharaj Nakorn Chiang Mai / Suan Dok Hospital)
+**― Operations (2024) ―**
 
-**Community and Nature Education Camp 2024** · *Administrative Officer & Coordinator* · Nov 2024 – Feb 2025
-- Collected and managed participant data using Excel (personal information records)
-- Drafted official request letters for borrowing equipment and supplies from within and outside CMU
-- Coordinated documentation across multiple camp departments
-- Liaised with CMU officials for administrative paperwork, including student loan (กยศ) approvals and authorized signatures
-- Coordinated with an insurance company to arrange accident coverage for student organizers
-- Contacted Ramathibodi Hospital to arrange blanket loans for camp use
-- Coordinated CMU transportation services for participant transfers to the event venue
+**Community & Nature Education Camp 2024** · *Administrative Officer & Coordinator* · Nov 2024 – Feb 2025
+- Managed participant records (Excel), drafted official request letters, and coordinated with CMU departments, insurance provider, Ramathibodi Hospital, and transport services
+- Liaised with CMU officials for administrative paperwork (student loan approvals, authorized signatures)
 
 **Conservation Youth Camp 34 (CYC 34)** · *Venue & Facilities Officer* · Nov 2024 – Apr 2025
-- Prepared tools and materials for venue repair and setup prior to camp
-- Conducted site surveys to assess venue readiness and logistics
-- Provided on-site support and facilitation for camp participants throughout the event
+- Surveyed camp venues, prepared facilities and equipment, and provided on-site support throughout the event
+
+**Bird Watching & Exploring Nature Camp 2024** · *Medical Officer* · Nov – Dec 2024
+- Sourced and arranged first-aid equipment from CMU faculties and Suan Dok Hospital
+
+**― Leadership & Advisory (2025) ―**
 
 **Club Administrative Board 2025** · *Administrative Officer & Coordination Advisor* · Jun 2025 – Mar 2026
-- Prepared and submitted official club documents to university staff
-- Assisted in planning and coordinating club activities for the 2025 academic year
+- Managed official club documentation and co-planned annual activities for the 2025 academic year
 
 **Equipment Procurement Project 2025** · *Project Lead* · Jun – Sep 2025
-- Planned and managed procurement of equipment and supplies beneficial to the club
+- Led planning and procurement of equipment and supplies for the club
 
-**Phlai Bai Camp 2025** · *Administrative & Venue Advisor* · Jul – Oct 2025
-- Mentored and advised new members assigned to administrative and venue roles
-
-**Community and Nature Education Camp 2025** · *Administrative & Venue Advisor* · Sep 2025 – Feb 2026
-- Mentored and advised new members assigned to administrative and venue roles
-
-**Conservation Youth Camp 35 (CYC 35)** · *Administrative Officer, Venue Advisor & Insurance Coordinator*
-- Collected and managed participant data using Excel
-- Drafted official request letters for borrowing items from within and outside CMU
-- Coordinated documentation across camp departments
-- Liaised with CMU officials for administrative paperwork (student loan applications, authorized signatures)
-- Coordinated with an insurance company for student organizer accident coverage
-- Provided on-site facilitation and support for all camp participants
+**CYC 35 · Phlai Bai Camp · Community & Nature Camp 2025** · *Administrative Officer & Advisor* · Jul 2025 – Feb 2026
+- Mentored new administrative and venue officers across 3 camps
+- Managed participant data, prepared official documents, and coordinated insurance and CMU logistics
 
 ---
 ## Project
