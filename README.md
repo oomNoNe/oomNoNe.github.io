@@ -1,5 +1,5 @@
-<img src="profile.png" width="150" 
-style="border-radius: 50%"/>
+<img src="profile.jpg" width="150" 
+style="border-radius: 50%; display: block; margin: 0 auto;"/>
 
 # Nonchaphat Ithirojanawong
 ## Education
