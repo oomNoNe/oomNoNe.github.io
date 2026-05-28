@@ -1,5 +1,7 @@
+<img src="profile.jpg" width="150" 
+style="border-radius: 50%"/>
+
 # Nonchaphat Ithirojanawong
- ภาพ
 ## Education
 
 **Chiang Mai University** — Economics / Data Science  
@@ -35,8 +37,6 @@ Currently seeking **Data Analyst / Data Science Internship**.
 
 ### 🚨 Black Swan Risk Indicator
 
-ภาพ
-
 Early-warning system for financial market crises combining:
 - 📰 **FinBERT NLP** — sentiment analysis from global headlines
 - 📊 **XGBoost** — 7-day VIX forecasting
@@ -58,10 +58,6 @@ critical evaluation, verification & deployment
 [View on GitHub](https://github.com/oomNoNe/black-swan-indicator) · 
 [Live Report](https://oomNoNe.github.io/black-swan-indicator/)
 
-
-### project SQL
-
-### project analysis basic 
 ---
 
 ## Contact
