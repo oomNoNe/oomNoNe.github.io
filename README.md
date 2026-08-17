@@ -1,5 +1,5 @@
 ## Education
-**Chiang Mai University** — Economics 
+**Chiang Mai University** — Economics  
 GPA: 3.23 / 4.00  
 Relevant courses: Econometrics, Statistics, Financial Markets,
 Machine Learning, Time Series Analysis
@@ -8,12 +8,12 @@ Machine Learning, Time Series Analysis
 
 ## About Me
 
-Economics & Data Science student at Chiang Mai University
+Economics student at Chiang Mai University
 passionate about financial market analysis and ML systems.
 I believe in intellectual honesty in research —
 when results don't support the hypothesis, document it clearly.
 
-Currently seeking **Data Analyst / Data Science Internship**.
+Currently seeking **Data Analyst Internship**.
 
 ---
 
