@@ -1,6 +1,5 @@
-
 ## Education
-**Chiang Mai University** — Economics / Data Science  
+**Chiang Mai University** — Economics 
 GPA: 3.23 / 4.00  
 Relevant courses: Econometrics, Statistics, Financial Markets,
 Machine Learning, Time Series Analysis
@@ -20,10 +19,14 @@ Currently seeking **Data Analyst / Data Science Internship**.
 
 ## Technical Skills
 
-- **Languages:** Python, SQL
+- **Languages:** Python, SQL, R
 - **Domain:** Econometrics, Financial Analysis, 
   Backtesting, Time Series
-- **Tools:** Git, GitHub, Streamlit (basic)
+- **Tools:** Excel, Power BI, Tableau, Microsoft Word, Numpy/pandas/Jupyter, R Studio, Git, GitHub, Streamlit (basic)
+
+**Core Competencies:** Analytical Thinking · Critical Thinking · Problem-Solving · Communication · Teamwork
+
+**Languages Spoken:** Thai (Native) · English (Pre-Intermediate, actively improving)
 
 ---
 ## Work Experience
@@ -79,6 +82,26 @@ critical evaluation, verification & deployment
 
 [View on GitHub](https://github.com/oomNoNe/black-swan-indicator) · 
 [Live Report](https://oomNoNe.github.io/black-swan-indicator/)
+
+---
+
+### 🍔 FoodOps Analytics: Delivery Performance & Growth Diagnostics
+
+End-to-end analyst pipeline on 8,000 food delivery orders across 6 cities:
+
+- 🧹 **Python (pandas)** — data cleaning and exploratory analysis
+- 📈 **R** — OLS regression, hypothesis testing (traffic, distance, weather → delivery time & rating)
+- 🗃️ **SQL (SQLite)** — 6 business-question queries, including window functions
+- 📊 **Power BI** — interactive dashboard, published live
+
+**Key Findings:**
+- ✅ Traffic and distance (not city) drive 90% of delivery-time variance (R² = 0.90)
+- ✅ Promo codes raised order value by only ~0.8%, despite ฿99K in discounts
+- ✅ Delivery time significantly lowers customer rating (p < 0.001)
+
+**Stack:** Python · SQL · R · Power BI
+
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU5OTIzYWQtYTQ2Ni00MDBkLWI4MjItODg4Mjk4NjE5YWU5IiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D)
 
 ---
 
