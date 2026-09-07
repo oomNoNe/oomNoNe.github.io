@@ -78,11 +78,20 @@ End-to-end analyst pipeline on 8,000 food delivery orders across 6 cities:
 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU5OTIzYWQtYTQ2Ni00MDBkLWI4MjItODg4Mjk4NjE5YWU5IiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D)
 
 ---
-## CERTIFICATES
-**CEIC Data Training Course:** From Data to Insights Chiang Mai University — July 17, 2026
+## Certificates
 
-Completed a workshop on CEIC, a global economic database (founded 1992) covering macroeconomic, industry, and financial data across 200+ countries — widely used by institutions such as the Bank of Thailand, research bodies, and universities worldwide. The training covered how to navigate the CEIC platform to pull raw data (e.g., inflation, GDP) for independent analysis, as well as how to use CEIC's ready-made expert reports and analyses. This complements my work on quantitative finance and data analytics.
-![CEIC Certificate](assets/cer.png)
+### CEIC Data Training Course: From Data to Insights
+*Chiang Mai University — July 17, 2026*
+
+Completed a workshop on CEIC, a global economic database (founded 1992) 
+covering macroeconomic, industry, and financial data across 200+ countries — 
+widely used by institutions such as the Bank of Thailand, research bodies, 
+and universities worldwide. The training covered how to navigate the CEIC 
+platform to pull raw data (e.g., inflation, GDP) for independent analysis, 
+as well as how to use CEIC's ready-made expert reports and analyses. This 
+complements my work on quantitative finance and data analytics.
+
+![CEIC Certificate](assets/certificate_ceic.png)
 ---
 ## Contact
 
