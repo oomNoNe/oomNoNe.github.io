@@ -91,11 +91,10 @@ platform to pull raw data (e.g., inflation, GDP) for independent analysis,
 as well as how to use CEIC's ready-made expert reports and analyses. This 
 complements my work on quantitative finance and data analytics.
 
-[View CEIC Certificate →](assets/Certificate_ceic.pdf)
+[View CEIC Certificate →](Certificate_ceic.pdf)
 ---
 ## Contact
 
 - 📧 non0992727@gmail.com
 - 📧 nonchaphat_ithiroj@cmu.ac.th
 - 💻 [github.com/oomNoNe](https://github.com/oomNoNe)
-- 🌐 [Live Project](https://oomNoNe.github.io/black-swan-indicator/)
