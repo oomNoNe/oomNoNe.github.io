@@ -91,7 +91,7 @@ platform to pull raw data (e.g., inflation, GDP) for independent analysis,
 as well as how to use CEIC's ready-made expert reports and analyses. This 
 complements my work on quantitative finance and data analytics.
 
-[View CEIC Certificate →](assets/certificate_ceic.pdf)
+[View CEIC Certificate →](assets/Certificate ceic.pdf)
 ---
 ## Contact
 
