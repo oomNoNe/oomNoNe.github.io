@@ -58,32 +58,6 @@ Currently seeking **Data Analyst Internship**.
 - Managed participant data, prepared official documents, and coordinated insurance and CMU logistics
 
 ---
-## Project
-
-### 🚨 Black Swan Risk Indicator
-
-Early-warning system for financial market crises combining:
-- 📰 **FinBERT NLP** — sentiment analysis from global headlines
-- 📊 **XGBoost** — 7-day VIX forecasting
-- 🤖 **Regime Detector** — rule-based market mood classifier
-
-**Key Findings:**
-- ✅ Flagged COVID-19 crash **7 days early** before VIX peaked at 82.69
-- 🎓 Naive baseline beat all ML models — validates Efficient Market Hypothesis
-- ⚙️ Disk cache reduced build time from 60s → 8.7s (7× speedup)
-- 🧪 16 pytest tests · Walk-forward CV · MLflow tracking
-
-**Stack:** Python · XGBoost · FinBERT · Streamlit · Docker · GitHub Actions
-
-**My role:** Problem definition, methodology design,
-critical evaluation, verification & deployment
-
-**AI-assisted:** Code scaffolding, debugging, documentation
-
-[View on GitHub](https://github.com/oomNoNe/black-swan-indicator) · 
-[Live Report](https://oomNoNe.github.io/black-swan-indicator/)
-
----
 
 ### 🍔 FoodOps Analytics: Delivery Performance & Growth Diagnostics
 
