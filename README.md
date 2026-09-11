@@ -57,6 +57,12 @@ Currently seeking **Data Analyst Internship**.
 - Mentored new administrative and venue officers across 3 camps
 - Managed participant data, prepared official documents, and coordinated insurance and CMU logistics
 
+Faculty of Economics — Chiang Mai University
+
+## Student Quality Development Unit ##· *Student Assistant*  · Sep 2026 – Present
+
+Adapting the university-wide Strategic Operations & Project Proposal Manual (13th Education Development Plan) into a faculty-specific version, preserving the original design template while restructuring content, KPIs/KRs, and responsible units to match the faculty's scope
+Using Excel and Word to organize and verify multi-year numerical targets across dozens of indicator tables, and Canva to maintain visual consistency with the original design
 ---
 
 ### 🍔 FoodOps Analytics: Delivery Performance & Growth Diagnostics
