@@ -66,26 +66,6 @@ Faculty of Economics — Chiang Mai University
 - Using Excel and Word to organize and verify multi-year numerical targets across dozens of indicator tables, and Canva to maintain visual consistency with the original design
   
 ---
-
-### 🍔 FoodOps Analytics: Delivery Performance & Growth Diagnostics
-
-End-to-end analyst pipeline on 8,000 food delivery orders across 6 cities:
-
-- 🧹 **Python (pandas)** — data cleaning and exploratory analysis
-- 📈 **R** — OLS regression, hypothesis testing (traffic, distance, weather → delivery time & rating)
-- 🗃️ **SQL (SQLite)** — 6 business-question queries, including window functions
-- 📊 **Power BI** — interactive dashboard, published live
-
-**Key Findings:**
-- ✅ Traffic and distance (not city) drive 90% of delivery-time variance (R² = 0.90)
-- ✅ Promo codes raised order value by only ~0.8%, despite ฿99K in discounts
-- ✅ Delivery time significantly lowers customer rating (p < 0.001)
-
-**Stack:** Python · SQL · R · Power BI
-
-[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWU5OTIzYWQtYTQ2Ni00MDBkLWI4MjItODg4Mjk4NjE5YWU5IiwidCI6ImNmODFmMWRmLWRlNTktNGMyOS05MWRhLWEyZGZkMDRhYTc1MSIsImMiOjEwfQ%3D%3D)
-
----
 ## Certificates
 
 ### CEIC Data Training Course: From Data to Insights
